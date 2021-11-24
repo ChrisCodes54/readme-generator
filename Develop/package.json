@@ -1,0 +1,14 @@
+{
+  "name": "develop",
+  "version": "1.0.0",
+  "description": "Read Me Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Tangarife",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
