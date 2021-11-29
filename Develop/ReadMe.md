@@ -1,29 +1,28 @@
-# brian
+# ReadMe Generator
 
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
-  * [License](#license)
   * [Contributors](#contributors)
   * [Questions](#questions)
   
   ## Description
-   brian
+   An app designed to create ReadMes
 
   ## Installation
-   brian
+   Simply have Node.Js installed
 
   ## Usage 
-  brian
+  To create ReadMe's
 
   ## License 
   MIT
 
   ## Contributors 
-  brian
+  myself, Christopher 
 
   ## Questions 
-  If  you have any more questions feel free to email me at chris@gmail.com. You can find other work of mine
-  at [brian](https://github.com/brian) 
+  If  you have any more questions feel free to email me at ChrisTangarife95@gmail.com. You can find other work of mine
+  at [ChrisCodes54](https://github.com/ChrisCodes54) 
 
