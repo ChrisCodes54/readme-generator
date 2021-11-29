@@ -8,21 +8,21 @@
   * [Questions](#questions)
   
   ## Description
-   An app designed to create ReadMes
+   This a readme Generator
 
   ## Installation
-   Simply have Node.Js installed
+   Have Node.Js installed
 
   ## Usage 
-  To create ReadMe's
+  To create Readme's
 
   ## License 
   MIT
 
   ## Contributors 
-  myself, Christopher 
+  myself, Christopher Tangarife
 
   ## Questions 
-  If  you have any more questions feel free to email me at ChrisTangarife95@gmail.com. You can find other work of mine
+  If  you have any more questions feel free to email me at Christangarife95@gmail.com. You can find other work of mine
   at [ChrisCodes54](https://github.com/ChrisCodes54) 
 

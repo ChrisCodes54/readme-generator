@@ -10,7 +10,7 @@
 ## Description
 The ReadMe Generator can be opened via the terminal and the user can easily answer the questions that they want to appear on the ReadMe and based on those results, the ReadMe generator will create the ReadMe in their current working directory.
 ## Usage
-For people to use to create their ReadMes much more asily.
+For people to use to create their ReadMes much more easily.
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Contributors
