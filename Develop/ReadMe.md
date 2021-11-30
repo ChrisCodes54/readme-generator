@@ -1,28 +1,29 @@
-# ReadMe Generator
+# Chris
 
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
+  * [License](#license)
   * [Contributors](#contributors)
   * [Questions](#questions)
   
   ## Description
-   This a readme Generator
+   mine
 
   ## Installation
-   Have Node.Js installed
+   none
 
   ## Usage 
-  To create Readme's
+  use
 
   ## License 
-  MIT
+  ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Contributors 
-  myself, Christopher Tangarife
+  mine
 
   ## Questions 
-  If  you have any more questions feel free to email me at Christangarife95@gmail.com. You can find other work of mine
+  If  you have any more questions feel free to email me at chris@email.com. You can find other work of mine
   at [ChrisCodes54](https://github.com/ChrisCodes54) 
 
