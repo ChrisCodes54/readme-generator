@@ -21,7 +21,10 @@ If you have any questions about the application contact me directly at Christang
 Christangarife95@gmail.com 
 # Username
 Check out my other work on [Github](https://github.com/ChrisCodes54)
-# Screenshots
+# Screenshots and video
+## Walkthrough Video
+  Watch the walkthrough video by clicking [here](https://drive.google.com/file/d/1qoa50wE7t3K8ys6SkMU0DwiujvIO1WVi/view?usp=sharing)
+
 ![Start of the Readme generator in the terminal with the first quesiton.](./images/readmestart.png)
 
 
